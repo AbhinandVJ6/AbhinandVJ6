@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhinandVJ6
-- 👀 I’m interested in Learning new things.
+- 👀 I’m interested and keen to learn.
 - 🌱 I’m currently learning Data Structures
 - 📫 How to reach me ... Mail me: abhinandvj6@gmail.com 
 
