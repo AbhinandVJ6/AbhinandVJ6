@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinandVJ6
 - 👀 I’m interested and keen to learn.
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me ... Mail me: abhinandvj6@gmail.com 
 
 <!---
