@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbhinandVJ6
-- 👀 I’m interested and keen to learn.
-- 🌱 I’m currently learning Redux
+- 👋 Hi, I’m @AbhinandVJ
+- 👀 I’m an aspiring Web developer, interested and keen to learn.
+- 🌱 I’m currently learning React-Redux
 - 📫 How to reach me ... Mail me: abhinandvj6@gmail.com 
 
 <!---
