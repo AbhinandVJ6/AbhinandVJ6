@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm [Abhinand VJ](https://github.com/AbhinandVJ6)👨‍💻
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 👀 I’m interested in Web Development , Data science & technologies
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
@@ -77,7 +80,8 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Abhinand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sahil.linkdin//)](https://www.linkedin.com/in/abhinandvj6/)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-abhinandvj6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandvj6@gmail.com)](mailto:sabhinandvj6@gmail.com)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge]([https://www.linkedin.com/mynetwork/](https://www.linkedin.com/in/abhinandvj6/))](https://www.linkedin.com/in//)or
+[![Gmail Badge](https://img.shields.io/badge/-abhinandvj6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandvj6@gmail.com)](mailto:sabhinandvj6@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/abhinand?label=Follow&style=social)](https://github.com/AbhinandVJ6/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
@@ -119,11 +123,9 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+
 
 
 
