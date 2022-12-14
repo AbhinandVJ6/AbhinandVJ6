@@ -80,7 +80,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://www.linkedin.com/in/abhinandvj6/) 
+###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/abhinandvj6/) 
 or
 [![Gmail Badge](https://img.shields.io/badge/-abhinandvj6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandvj6@gmail.com)](mailto:sabhinandvj6@gmail.com)
 
