@@ -115,7 +115,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 ---
 
-### :fire: My Stats : [click me] (https://github-readme-streak-stats.herokuapp.com/?user=AbhinandVJ6)
+### :fire: My Stats : [click me](https://github-readme-streak-stats.herokuapp.com/?user=AbhinandVJ6)
 
 ---
 
