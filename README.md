@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhinandVJ
+### Hi there 👋, I'm [Abhinand VJ](https://github.com/AbhinandVJ6)👨‍💻
 
 - 👀 I’m interested in Web Development , Data science & technologies
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
@@ -6,8 +6,7 @@
 - 📫 How to reach me - github id - AbhinandVJ6
 
 
-### Hi there 👋, I'm [Abhinand VJ](https://github.com/AbhinandVJ6)
-) 👨‍💻
+
 
 ### Visitors-Count
 ![Visitor Count](https://profile-counter.glitch.me/{AbhinandVJ6}/count.svg)   
@@ -78,21 +77,21 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil.linkdin//)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-sahil@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil@techis.io)](mailto:sahil@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Abhinand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sahil.linkdin//)](https://www.linkedin.com/in/abhinandvj6/)](https://www.linkedin.com/in//)or[![Gmail Badge](https://img.shields.io/badge/-abhinandvj6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandvj6@gmail.com)](mailto:sabhinandvj6@gmail.com)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sahil?label=Follow&style=social)](https://github.com/Sahilmehra23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/abhinand?label=Follow&style=social)](https://github.com/AbhinandVJ6/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
 
 
-###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sahil Mehra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)](https://www.linkedin.com/in)
+###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Abhinand VJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)]([https://www.linkedin.com/in](https://www.linkedin.com/in/abhinandvj6/))
 
 
 ----------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=Sahilmehra23&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=AbhinandVJ23&theme=blue-green)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilmehra23&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandVJ23&theme=blue-green)
 
 
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
@@ -108,19 +107,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-- 👀 I’m an aspiring Web developer, interested and keen to learn.
-- 🌱 I’m currently perfecting Full Stack Development skills
-- - <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+
 
 
 - 📫 How to reach me ... Mail me: abhinandvj6@gmail.com 
