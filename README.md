@@ -93,10 +93,10 @@ or
 
 ----------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=AbhinandVJ623&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=AbhinandVJ6&theme=blue-green)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandVJ623&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandVJ6&theme=blue-green)
 
 
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
