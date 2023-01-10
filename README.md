@@ -4,8 +4,8 @@
 </div>
 
 - 👀 I’m interested in Web Development , Data science & technologies
-- 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
-- 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
+- 🌱 I’m currently working on Projects and websites to create clean API using DJANGO.
+- 💞️ I’m looking to collaborate with someone who is working on Web Application Projects.
 - 📫 How to reach me - github id - AbhinandVJ6
 
 
@@ -38,11 +38,11 @@
 <br/>
 
 <p>
-A Skilled FullStack Web Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack Web Developer 🚀 from India. Always working on some projects or learning something new!
 <br/>
-Stacks I have worked with : React-Redux
+Stacks I have worked with : Django-HTML5-CSS5
 <br/>  
-Things I am currently experimenting with : HTML, CSS, JavaScript, Django, React, Redux
+Things I am currently experimenting with : JavaScript, React, Redux, SQL
 <br/>
 Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Source Contributor for Nature thru Web Tech 💚.
 </p>
